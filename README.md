@@ -1,1 +1,3 @@
 # Computer-Networking-and-Communication
+
+Designed and implemented a bespoke HTTP client and server library in Python, leveraging socket programming to facilitate seamless communication over both TCP and UDP protocols. The client-server interaction was fortified with robust security measures to ensure data integrity and confidentiality throughout the exchange. Notably, I integrated a selective window mechanism within the UDP messaging system, optimizing efficiency and reliability by managing packet transmission and acknowledgment. This comprehensive solution not only facilitated secure and reliable communication but also optimized performance for diverse networking scenarios.
